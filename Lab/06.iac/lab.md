@@ -226,3 +226,7 @@ vagrant provision
 ## Bonus task
 
 Print a custom message with only the dysfunctional(s) services in the Readiness check if there are some. To test the printing, stop `redis` using the command `sudo gitlab-ctl stop redis` on the node before running the playbook again. Tip: use the `json` attribute of the response.
+
+
+
+pour ce tp je dois faire un rapport en .md de ce tp j'aimerai faire une partie : ce que j'ai du faire avant de commencer puis une partieImperative - Using Vagrant with Shell Provisioner suivie d'une partie Declarative - GitLab installation using Vagrant and Ansible Provisioner  ainsi que d'une partie Play with different commands for Shell Provisioner
