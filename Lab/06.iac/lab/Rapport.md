@@ -11,3 +11,11 @@ On rentre dans le bon dossier :
 rivat@LAPTOP-0DL4R9QB:/mnt/c/Users/rivat/OneDrive/Documents/GitHub/DevOps_TP$ cd Lab/06.iac/lab/part-1
 rivat@LAPTOP-0DL4R9QB:/mnt/c/Users/rivat/OneDrive/Documents/GitHub/DevOps_TP/Lab/06.iac/lab/part-1$
 ```
+
+### 2. Create a virtual machine (VM)
+
+On lance la VM :
+```bash
+vagrant up
+```
+
